@@ -6,6 +6,11 @@
 
 env 내에 키 입력
 
+
+run.bat으로 실행
+
+
+
 <img width="1916" height="896" alt="image" src="https://github.com/user-attachments/assets/d0a08504-f99c-4cac-ac7f-7f4720a182da" />
 
 번들 추가 후 레퍼런스 이미지 첨부 및 가이드 프롬프트 입력
